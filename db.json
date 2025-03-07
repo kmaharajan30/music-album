@@ -1,0 +1,1017 @@
+{
+    "collections": [
+        {
+          "id": "10000",
+          "name": "Echoes of the Past",
+          "artist": "Dua Lipa",
+          "type": "Album",
+          "songCount": 4,
+          "durationInSeconds": 3544,
+          "sizeInBytes": 19037200,
+          "releasedOn": "2018-01-18T00:04:00Z",
+          "songs": [
+            {
+              "title": "Fading Shadows",
+              "durationInSeconds": 245,
+              "sizeInBytes": 7792300,
+              "performers": [
+                "Shawn Mendes", "John Snow", "Kanye West"
+              ]
+            },
+            {
+              "title": "Mystic Dawn",
+              "durationInSeconds": 151,
+              "sizeInBytes": 5819400,
+              "performers": [
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Eternal Echoes",
+              "durationInSeconds": 237,
+              "sizeInBytes": 6951800,
+              "performers": [
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Neon Nights",
+              "durationInSeconds": 185,
+              "sizeInBytes": 6640800,
+              "performers": [
+                "Bruno Mars",
+                "Selena Gomez"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10001",
+          "name": "Timeless Melodies",
+          "artist": "Drake",
+          "type": "EP",
+          "songCount": 6,
+          "durationInSeconds": 674,
+          "sizeInBytes": 126795890,
+          "releasedOn": "2017-05-15T00:00:00Z",
+          "songs": [
+            {
+              "title": "Lost in Time",
+              "durationInSeconds": 280,
+              "sizeInBytes": 43764000,
+              "performers": [
+                "SZA",
+                "Rihanna",
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Dreamcatcher",
+              "durationInSeconds": 138,
+              "sizeInBytes": 42084000,
+              "performers": [
+                "SZA",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Echoes of Tomorrow",
+              "durationInSeconds": 196,
+              "sizeInBytes": 66948000,
+              "performers": [
+                "SZA"
+              ]
+            },
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 134,
+              "sizeInBytes": 47061000,
+              "performers": [
+                "Selena Gomez",
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Crimson Horizon",
+              "durationInSeconds": 156,
+              "sizeInBytes": 37788000,
+              "performers": [
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 206,
+              "sizeInBytes": 65114000,
+              "performers": [
+                "Ariana Grande",
+                "Lana Del Rey"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10002",
+          "name": "Horizon Symphony",
+          "artist": "The Weeknd",
+          "type": "Album",
+          "songCount": 3,
+          "durationInSeconds": 1948,
+          "sizeInBytes": 119226000,
+          "releasedOn": "2019-07-22T00:00:00Z",
+          "songs": [
+            {
+              "title": "Distant Thunder",
+              "durationInSeconds": 148,
+              "sizeInBytes": 35238000,
+              "performers": [
+                "John Legend",
+                "SZA",
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Distant Thunder",
+              "durationInSeconds": 168,
+              "sizeInBytes": 38678000,
+              "performers": [
+                "Selena Gomez",
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Chasing the Sun",
+              "durationInSeconds": 205,
+              "sizeInBytes": 32086000,
+              "performers": [
+                "Bruno Mars"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10003",
+          "name": "Mystic Harmonies",
+          "artist": "Post Malone",
+          "type": "Album",
+          "songCount": 6,
+          "durationInSeconds": 2193,
+          "sizeInBytes": 145463000,
+          "releasedOn": "2023-04-17T00:00:00Z",
+          "songs": [
+            {
+              "title": "Silver Moonlight",
+              "durationInSeconds": 210,
+              "sizeInBytes": 79861000,
+              "performers": [
+                "Kanye West"
+              ]
+            },
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 299,
+              "sizeInBytes": 50764000,
+              "performers": [
+                "John Legend",
+                "Kanye West",
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Lost in Time",
+              "durationInSeconds": 228,
+              "sizeInBytes": 57063000,
+              "performers": [
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 218,
+              "sizeInBytes": 40668000,
+              "performers": [
+                "Harry Styles",
+                "Rihanna",
+                "Ariana Grande"
+              ]
+            },
+            {
+              "title": "Echoes of Tomorrow",
+              "durationInSeconds": 149,
+              "sizeInBytes": 48709000,
+              "performers": [
+                "Bruno Mars",
+                "Harry Styles",
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Eternal Echoes",
+              "durationInSeconds": 229,
+              "sizeInBytes": 44445000,
+              "performers": [
+                "Bruno Mars",
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10004",
+          "name": "Celestial Rhythms",
+          "artist": "BTS",
+          "type": "EP",
+          "songCount": 2,
+          "durationInSeconds": 875,
+          "sizeInBytes": 64047000,
+          "releasedOn": "2017-12-16T00:00:00Z",
+          "songs": [
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 213,
+              "sizeInBytes": 35125000,
+              "performers": [
+                "Bruno Mars",
+                "Selena Gomez",
+                "Lana Del Rey"
+              ]
+            },
+            {
+              "title": "Neon Nights",
+              "durationInSeconds": 230,
+              "sizeInBytes": 75975000,
+              "performers": [
+                "John Legend"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10005",
+          "name": "Golden Serenade",
+          "artist": "BTS",
+          "type": "Album",
+          "songCount": 1,
+          "durationInSeconds": 1388,
+          "sizeInBytes": 62234000,
+          "releasedOn": "2021-09-24T00:00:00Z",
+          "songs": [
+            {
+              "title": "Falling Embers",
+              "durationInSeconds": 190,
+              "sizeInBytes": 76391000,
+              "performers": [
+                "Shawn Mendes",
+                "Ariana Grande"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10006",
+          "name": "Waves of Eternity",
+          "artist": "Adele",
+          "type": "EP",
+          "songCount": 6,
+          "durationInSeconds": 1083,
+          "sizeInBytes": 109996000,
+          "releasedOn": "2022-01-11T00:00:00Z",
+          "songs": [
+            {
+              "title": "Midnight Serenade",
+              "durationInSeconds": 268,
+              "sizeInBytes": 51380000,
+              "performers": [
+                "Ariana Grande",
+                "Lana Del Rey",
+                "SZA"
+              ]
+            },
+            {
+              "title": "Falling Embers",
+              "durationInSeconds": 247,
+              "sizeInBytes": 43579000,
+              "performers": [
+                "Ariana Grande",
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Golden Hour",
+              "durationInSeconds": 192,
+              "sizeInBytes": 54624000,
+              "performers": [
+                "Bruno Mars",
+                "Harry Styles",
+                "Rihanna"
+              ]
+            },
+            {
+              "title": "Distant Thunder",
+              "durationInSeconds": 292,
+              "sizeInBytes": 49290,
+              "performers": [
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 124,
+              "sizeInBytes": 54681000,
+              "performers": [
+                "Harry Styles",
+                "Rihanna"
+              ]
+            },
+            {
+              "title": "Velvet Skies",
+              "durationInSeconds": 168,
+              "sizeInBytes": 71454000,
+              "performers": [
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10007",
+          "name": "Aurora Soundscape",
+          "artist": "Billie Eilish",
+          "type": "EP",
+          "songCount": 3,
+          "durationInSeconds": 844,
+          "sizeInBytes": 133114000,
+          "releasedOn": "2016-04-21T00:00:00Z",
+          "songs": [
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 179,
+              "sizeInBytes": 32554000,
+              "performers": [
+                "John Legend",
+                "Bruno Mars",
+                "Kanye West"
+              ]
+            },
+            {
+              "title": "Electric Pulse",
+              "durationInSeconds": 135,
+              "sizeInBytes": 42447000,
+              "performers": [
+                "Bruno Mars",
+                "Ariana Grande"
+              ]
+            },
+            {
+              "title": "Echoes of Tomorrow",
+              "durationInSeconds": 290,
+              "sizeInBytes": 46738000,
+              "performers": [
+                "SZA",
+                "Selena Gomez"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10008",
+          "name": "Nocturnal Ballads",
+          "artist": "The Weeknd",
+          "type": "EP",
+          "songCount": 2,
+          "durationInSeconds": 2296,
+          "sizeInBytes": 183921000,
+          "releasedOn": "2023-09-21T00:00:00Z",
+          "songs": [
+            {
+              "title": "Whispering Winds",
+              "durationInSeconds": 147,
+              "sizeInBytes": 68607000,
+              "performers": [
+                "SZA"
+              ]
+            },
+            {
+              "title": "Starry Waltz",
+              "durationInSeconds": 183,
+              "sizeInBytes": 42160000,
+              "performers": [
+                "Lana Del Rey",
+                "Shawn Mendes",
+                "John Legend"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10009",
+          "name": "Beyond the Stars",
+          "artist": "Post Malone",
+          "type": "EP",
+          "songCount": 1,
+          "durationInSeconds": 3272,
+          "sizeInBytes": 173740000,
+          "releasedOn": "2022-07-01T00:00:00Z",
+          "songs": [
+            {
+              "title": "Heartbeat Symphony",
+              "durationInSeconds": 210,
+              "sizeInBytes": 57385000,
+              "performers": [
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10010",
+          "name": "Whispered Legends",
+          "artist": "Post Malone",
+          "type": "Album",
+          "songCount": 3,
+          "durationInSeconds": 1482,
+          "sizeInBytes": 135285000,
+          "releasedOn": "2024-03-19T00:00:00Z",
+          "songs": [
+            {
+              "title": "Electric Pulse",
+              "durationInSeconds": 122,
+              "sizeInBytes": 34028000,
+              "performers": [
+                "SZA"
+              ]
+            },
+            {
+              "title": "Golden Hour",
+              "durationInSeconds": 178,
+              "sizeInBytes": 39850000,
+              "performers": [
+                "Kanye West",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Silver Moonlight",
+              "durationInSeconds": 162,
+              "sizeInBytes": 52307000,
+              "performers": [
+                "Ariana Grande"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10011",
+          "name": "Infinite Cadence",
+          "artist": "Dua Lipa",
+          "type": "Single",
+          "songCount": 1,
+          "durationInSeconds": 3065,
+          "sizeInBytes": 158980000,
+          "releasedOn": "2018-04-22T00:00:00Z"
+        },
+        {
+          "id": "10012",
+          "name": "Shadows and Light",
+          "artist": "Drake",
+          "type": "EP",
+          "songCount": 6,
+          "durationInSeconds": 2200,
+          "sizeInBytes": 121422000,
+          "releasedOn": "2016-12-01T00:00:00Z",
+          "songs": [
+            {
+              "title": "Midnight Serenade",
+              "durationInSeconds": 213,
+              "sizeInBytes": 54223000,
+              "performers": [
+                "Lana Del Rey",
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Eternal Echoes",
+              "durationInSeconds": 173,
+              "sizeInBytes": 79073000,
+              "performers": [
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Heartbeat Symphony",
+              "durationInSeconds": 202,
+              "sizeInBytes": 52908000,
+              "performers": [
+                "Rihanna"
+              ]
+            },
+            {
+              "title": "Golden Hour",
+              "durationInSeconds": 129,
+              "sizeInBytes": 32642000,
+              "performers": [
+                "John Legend",
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Luminous Path",
+              "durationInSeconds": 165,
+              "sizeInBytes": 54074000,
+              "performers": [
+                "Bruno Mars",
+                "John Legend",
+                "Selena Gomez"
+              ]
+            },
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 247,
+              "sizeInBytes": 65072000,
+              "performers": [
+                "Shawn Mendes",
+                "John Legend"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10013",
+          "name": "Crimson Melodies",
+          "artist": "Taylor Swift",
+          "type": "EP",
+          "songCount": 2,
+          "durationInSeconds": 1840,
+          "sizeInBytes": 115291000,
+          "releasedOn": "2015-03-09T00:00:00Z",
+          "songs": [
+            {
+              "title": "Neon Nights",
+              "durationInSeconds": 250,
+              "sizeInBytes": 40769000,
+              "performers": [
+                "Rihanna"
+              ]
+            },
+            {
+              "title": "Luminous Path",
+              "durationInSeconds": 218,
+              "sizeInBytes": 58153000,
+              "performers": [
+                "Harry Styles"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10014",
+          "name": "Velvet Symphony",
+          "artist": "Post Malone",
+          "type": "Album",
+          "songCount": 2,
+          "durationInSeconds": 1929,
+          "sizeInBytes": 188590000,
+          "releasedOn": "2016-12-12T00:00:00Z",
+          "songs": [
+            {
+              "title": "Mystic Dawn",
+              "durationInSeconds": 290,
+              "sizeInBytes": 40956000,
+              "performers": [
+                "Shawn Mendes",
+                "Lana Del Rey"
+              ]
+            },
+            {
+              "title": "Dreamcatcher",
+              "durationInSeconds": 165,
+              "sizeInBytes": 59615000,
+              "performers": [
+                "Harry Styles"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10015",
+          "name": "Ember's Lullaby",
+          "artist": "Dua Lipa",
+          "type": "Album",
+          "songCount": 6,
+          "durationInSeconds": 1790,
+          "sizeInBytes": 92672000,
+          "releasedOn": "2024-09-22T00:00:00Z",
+          "songs": [
+            {
+              "title": "Velvet Skies",
+              "durationInSeconds": 161,
+              "sizeInBytes": 49939000,
+              "performers": [
+                "Kanye West",
+                "Ariana Grande"
+              ]
+            },
+            {
+              "title": "Frozen in Motion",
+              "durationInSeconds": 300,
+              "sizeInBytes": 69822000,
+              "performers": [
+                "Shawn Mendes",
+                "Bruno Mars",
+                "Kanye West"
+              ]
+            },
+            {
+              "title": "Luminous Path",
+              "durationInSeconds": 178,
+              "sizeInBytes": 31633000,
+              "performers": [
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Luminous Path",
+              "durationInSeconds": 143,
+              "sizeInBytes": 63401000,
+              "performers": [
+                "Shawn Mendes",
+                "Rihanna",
+                "Kanye West"
+              ]
+            },
+            {
+              "title": "Silver Moonlight",
+              "durationInSeconds": 214,
+              "sizeInBytes": 59732000,
+              "performers": [
+                "John Legend"
+              ]
+            },
+            {
+              "title": "Starry Waltz",
+              "durationInSeconds": 150,
+              "sizeInBytes": 35478000,
+              "performers": [
+                "Selena Gomez"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10016",
+          "name": "Dreamweaver Tunes",
+          "artist": "Adele",
+          "type": "Single",
+          "songCount": 1,
+          "durationInSeconds": 3007,
+          "sizeInBytes": 97022000,
+          "releasedOn": "2022-07-23T00:00:00Z"
+        },
+        {
+          "id": "10017",
+          "name": "Luminous Echoes",
+          "artist": "Drake",
+          "type": "Album",
+          "songCount": 2,
+          "durationInSeconds": 2761,
+          "sizeInBytes": 155011000,
+          "releasedOn": "2021-07-06T00:00:00Z",
+          "songs": [
+            {
+              "title": "Falling Embers",
+              "durationInSeconds": 134,
+              "sizeInBytes": 61551000,
+              "performers": [
+                "Rihanna",
+                "Lana Del Rey",
+                "Kanye West"
+              ]
+            },
+            {
+              "title": "Neon Nights",
+              "durationInSeconds": 226,
+              "sizeInBytes": 52743000,
+              "performers": [
+                "Rihanna"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10018",
+          "name": "Stardust Harmonies",
+          "artist": "Ed Sheeran",
+          "type": "EP",
+          "songCount": 6,
+          "durationInSeconds": 1988,
+          "sizeInBytes": 94572000,
+          "releasedOn": "2024-05-14T00:00:00Z",
+          "songs": [
+            {
+              "title": "Whispering Winds",
+              "durationInSeconds": 229,
+              "sizeInBytes": 41231000,
+              "performers": [
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 279,
+              "sizeInBytes": 48243000,
+              "performers": [
+                "SZA",
+                "Kanye West",
+                "Ariana Grande"
+              ]
+            },
+            {
+              "title": "Chasing the Sun",
+              "durationInSeconds": 205,
+              "sizeInBytes": 63043000,
+              "performers": [
+                "John Legend",
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Starry Waltz",
+              "durationInSeconds": 186,
+              "sizeInBytes": 43142000,
+              "performers": [
+                "Selena Gomez",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Golden Hour",
+              "durationInSeconds": 168,
+              "sizeInBytes": 54874000,
+              "performers": [
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Mystic Dawn",
+              "durationInSeconds": 153,
+              "sizeInBytes": 40335000,
+              "performers": [
+                "Lana Del Rey",
+                "Selena Gomez"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10019",
+          "name": "Lost in Reverie",
+          "artist": "Taylor Swift",
+          "type": "Album",
+          "songCount": 3,
+          "durationInSeconds": 2595,
+          "sizeInBytes": 156445000,
+          "releasedOn": "2020-08-24T00:00:00Z",
+          "songs": [
+            {
+              "title": "Falling Embers",
+              "durationInSeconds": 239,
+              "sizeInBytes": 51850001,
+              "performers": [
+                "Rihanna",
+                "Harry Styles",
+                "John Legend"
+              ]
+            },
+            {
+              "title": "Chasing the Sun",
+              "durationInSeconds": 144,
+              "sizeInBytes": 54053000,
+              "performers": [
+                "Kanye West",
+                "John Legend",
+                "SZA"
+              ]
+            },
+            {
+              "title": "Frozen in Motion",
+              "durationInSeconds": 189,
+              "sizeInBytes": 57165000,
+              "performers": [
+                "Bruno Mars",
+                "Rihanna",
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10020",
+          "name": "Twilight Overture",
+          "artist": "BTS",
+          "type": "EP",
+          "songCount": 5,
+          "durationInSeconds": 1552,
+          "sizeInBytes": 88579000,
+          "releasedOn": "2015-07-17T00:00:00Z",
+          "songs": [
+            {
+              "title": "Shattered Dreams",
+              "durationInSeconds": 272,
+              "sizeInBytes": 69311000,
+              "performers": [
+                "Lana Del Rey",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Frozen in Motion",
+              "durationInSeconds": 298,
+              "sizeInBytes": 61178000,
+              "performers": [
+                "Kanye West",
+                "Selena Gomez",
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Fading Shadows",
+              "durationInSeconds": 204,
+              "sizeInBytes": 56117000,
+              "performers": [
+                "Ariana Grande",
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Crimson Horizon",
+              "durationInSeconds": 142,
+              "sizeInBytes": 42048000,
+              "performers": [
+                "Shawn Mendes",
+                "SZA",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Whispering Winds",
+              "durationInSeconds": 151,
+              "sizeInBytes": 35227000,
+              "performers": [
+                "John Legend"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10021",
+          "name": "Serenade of Souls",
+          "artist": "Adele",
+          "type": "EP",
+          "songCount": 1,
+          "durationInSeconds": 1434,
+          "sizeInBytes": 92878000,
+          "releasedOn": "2020-07-24T00:00:00Z",
+          "songs": [
+            {
+              "title": "Whispering Winds",
+              "durationInSeconds": 170,
+              "sizeInBytes": 30447000,
+              "performers": [
+                "Harry Styles",
+                "Bruno Mars"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10022",
+          "name": "Enchanted Harmonies",
+          "artist": "Dua Lipa",
+          "type": "Album",
+          "songCount": 3,
+          "durationInSeconds": 1672,
+          "sizeInBytes": 172862000,
+          "releasedOn": "2017-03-31T00:00:00Z",
+          "songs": [
+            {
+              "title": "Frozen in Motion",
+              "durationInSeconds": 163,
+              "sizeInBytes": 73018,
+              "performers": [
+                "Shawn Mendes"
+              ]
+            },
+            {
+              "title": "Velvet Skies",
+              "durationInSeconds": 160,
+              "sizeInBytes": 78350008,
+              "performers": [
+                "Shawn Mendes",
+                "SZA",
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Chasing the Sun",
+              "durationInSeconds": 208,
+              "sizeInBytes": 64336000,
+              "performers": [
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10023",
+          "name": "Ephemeral Notes",
+          "artist": "Taylor Swift",
+          "type": "Album",
+          "songCount": 2,
+          "durationInSeconds": 2599,
+          "sizeInBytes": 192287000,
+          "releasedOn": "2024-10-05T00:00:00Z",
+          "songs": [
+            {
+              "title": "Chasing the Sun",
+              "durationInSeconds": 135,
+              "sizeInBytes": 68950000,
+              "performers": [
+                "Selena Gomez",
+                "John Legend",
+                "Bruno Mars"
+              ]
+            },
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 286,
+              "sizeInBytes": 58367000,
+              "performers": [
+                "Harry Styles",
+                "Bruno Mars",
+                "SZA"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10024",
+          "name": "Winds of Destiny",
+          "artist": "The Weeknd",
+          "type": "Album",
+          "songCount": 5,
+          "durationInSeconds": 2246,
+          "sizeInBytes": 73350000,
+          "releasedOn": "2023-05-24T00:00:00Z",
+          "songs": [
+            {
+              "title": "Celestial Voyage",
+              "durationInSeconds": 222,
+              "sizeInBytes": 46116,
+              "performers": [
+                "Bruno Mars",
+                "Harry Styles"
+              ]
+            },
+            {
+              "title": "Ocean's Lullaby",
+              "durationInSeconds": 236,
+              "sizeInBytes": 67480000,
+              "performers": [
+                "Selena Gomez",
+                "Lana Del Rey"
+              ]
+            },
+            {
+              "title": "Mystic Dawn",
+              "durationInSeconds": 201,
+              "sizeInBytes": 72203,
+              "performers": [
+                "Harry Styles",
+                "SZA",
+                "Rihanna"
+              ]
+            },
+            {
+              "title": "Velvet Skies",
+              "durationInSeconds": 255,
+              "sizeInBytes": 49620000,
+              "performers": [
+                "Rihanna",
+                "John Legend"
+              ]
+            },
+            {
+              "title": "Golden Hour",
+              "durationInSeconds": 188,
+              "sizeInBytes": 66170000,
+              "performers": [
+                "John Legend",
+                "Lana Del Rey",
+                "Kanye West"
+              ]
+            }
+          ]
+        }
+      ]
+  }
+  

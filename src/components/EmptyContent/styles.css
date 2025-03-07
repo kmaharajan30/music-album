@@ -1,0 +1,23 @@
+.empty-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.empty-img {
+    height: 40%;
+    width: 40%;
+    object-fit: contain;
+}
+
+.empty-label {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--color-primary);
+}

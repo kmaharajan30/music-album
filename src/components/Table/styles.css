@@ -1,0 +1,79 @@
+.table-container {
+    background: var(--color-light);
+    border-radius: 8px;
+    overflow: hidden;
+    border: none !important;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    padding: 12px 14px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    color: var(--color-primary);
+    background: var(--color-light);
+    border-bottom: 1px solid var(--color-border-secondary);
+}
+
+.table td {
+    padding: 14px 14px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: var(--color-primary);
+    border-bottom: 1px solid var(--color-border-tertiary);
+}
+
+.table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+
+.table-cell {
+    padding: 16px;
+    color: var(--color-primary);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.name-artist-cell {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.primary-text {
+    color: var(--color-primary);
+}
+
+.secondary-text {
+    color: var(--color-secondary);
+}
+
+.action-cell {
+    text-align: center;
+}
+
+.action-button {
+    padding: 4px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: var(--color-dark-blue);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px
+}
+
+.action-button:hover {
+    background-color: var(--color-dull);
+}

@@ -1,0 +1,11 @@
+.music-collections {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    border: 1px solid;
+    border-color: var(--color-border-primary);
+    border-radius: 8px;
+    height: 100%;
+    background: var(--color-light);
+
+}

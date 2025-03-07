@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --color-primary: #29313A;
+    --color-dark-blue: #025992;
+    --color-dark-grey: #2D3540;
+    --color-light: #FFFFFF;
+    --color-dull: #f8fbfc;
+    --color-subtle: #EBF5FF;
+    --color-border-primary: #E6ECF0;
+    --color-border-secondary: #C2CAD3;
+    --color-border-tertiary: #E1E4E9;
+    --color-dark-secondary: #084782;
+    --color-secondary: #677A90;
+    --color-tertiary: #C2CAD3;
+    --color-background-primary: #E1E4E9
+}
+
+html {
+    font-family: "Commissioner", sans-serif;
+}

@@ -1,0 +1,26 @@
+.card {
+    border-radius: 8px;
+    background-color: var(--color-light);
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+}
+
+.card-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    color: var(--color-dark-grey);
+}
+
+.value {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--color-dark-grey);
+}
